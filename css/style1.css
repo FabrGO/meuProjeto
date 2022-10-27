@@ -1,0 +1,35 @@
+
+body{background-color: blue;
+;}
+
+.container{
+    background-color: blue;
+    width: auto;
+    right: auto;
+    text-align: center;
+  }
+  
+  .nav{
+    background-color: darksalmon;
+    padding: 2rem;
+
+    
+  }
+  .nav-link{
+    color: purple;
+    font-weight: bold;
+    text-align: center;
+    te
+  }
+  article{
+    background-color: red;
+    color: #fff;
+    padding: 1rem;
+    text-align: justify;
+  }
+  footer p{
+    color: #fff;
+    text-align: center;
+  }
+  .um{te}
+ 
